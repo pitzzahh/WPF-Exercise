@@ -1,0 +1,16 @@
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\MainWindow.g.cs
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\App.g.cs
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise_MarkupCompile.cache
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise_MarkupCompile.lref
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\MainWindow.baml
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.g.resources
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\pitzzahh\RiderProjects\Exercise\Exercise\obj\Debug\Exercise.pdb
