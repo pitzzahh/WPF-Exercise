@@ -4,24 +4,33 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Exercise"
+        xmlns:viewModel="clr-namespace:Exercise.MVVM.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="920">
+        Title="MainWindow" Height="600" Width="920"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStyle="None">
+    
+    <Window.DataContext>
+        <viewModel:MainViewModel/>
+    </Window.DataContext>
+    
     <Border Background="#272537"
             CornerRadius="20">
-        <Grid>
+        <Grid ShowGridLines="True">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
+                <ColumnDefinition Width="200"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
-                <RowDefinition/>
-                <RowDefinition/>
-                <RowDefinition/>
+                <RowDefinition Height="75"/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
-
+            <TextBlock Text="CinemaMaSys"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"/>
+            
+            <Label Content="{Binding Text, UpdateSourceTrigger=PropertyChanged}"/>
         </Grid>
     </Border>
 </Window>
